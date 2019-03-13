@@ -1,0 +1,128 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{none/global/}
+    \entry{Yang_Hy200215}{article}{}
+      \name{author}{3}{}{%
+        {{hash=44bb45645a2c5e7b66102ab923e1193b}{%
+           family={杨洪勇},
+           familyi={杨\bibinitperiod}}}%
+        {{hash=e981805f19c6eb7c8718755481832797}{%
+           family={宗广灯},
+           familyi={宗\bibinitperiod}}}%
+        {{hash=447d294cf6df73df832c8f3bffa1f326}{%
+           family={武玉强},
+           familyi={武\bibinitperiod}}}%
+      }
+      \strng{namehash}{a38b87b10617630b93004f69033ca630}
+      \strng{fullhash}{a38b87b10617630b93004f69033ca630}
+      \strng{authornamehash}{a38b87b10617630b93004f69033ca630}
+      \strng{authorfullhash}{a38b87b10617630b93004f69033ca630}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{计算机工程与应用}
+      \field{number}{15}
+      \field{title}{多输入多输出网络系统的拥塞控制方法}
+      \field{usera}{J}
+      \field{userd}{多}
+      \field{usere}{杨洪勇 and 宗广灯 and 武玉强}
+      \field{userf}{杨洪勇 and 宗广灯 and 武玉强}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{27\bibrangedash 30}
+      \range{pages}{4}
+      \keyw{Yang_Hy200215}
+    \endentry
+    \entry{Joa1999}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7f4fb41b57ca49ddf7acc9cb21a43110}{%
+           family={Joa-Ng},
+           familyi={J\bibinithyphendelim N\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2c4599cf59772111d8af682e7ad6cc0f}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={I-Tai},
+           giveni={I\bibinithyphendelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{72e20447198ad316a5597bd057eca0b2}
+      \strng{fullhash}{72e20447198ad316a5597bd057eca0b2}
+      \strng{authornamehash}{72e20447198ad316a5597bd057eca0b2}
+      \strng{authorfullhash}{72e20447198ad316a5597bd057eca0b2}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications Letters}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{A novel spread spectrum-based synchronization and location determination method for wireless system}
+      \field{usera}{J}
+      \field{userd}{A}
+      \field{usere}{Joa-Ng, M. and I-Tai Lu}
+      \field{userf}{Joa-Ng, M. and I-Tai Lu}
+      \field{volume}{3}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{pages}{177\bibrangedash 179}
+      \range{pages}{3}
+      \keyw{Joa1999}
+    \endentry
+    \entry{Altman1997}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=d01ee4a862dcfcd8ef3654226d81cbf5}{%
+           family={Altman},
+           familyi={A\bibinitperiod},
+           given={Eitan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9579ceec43b3910e986951532ab0a598}{%
+           family={Basar},
+           familyi={B\bibinitperiod},
+           given={Tamer},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2aaa37428ba63597094642f43da2184}
+      \strng{fullhash}{e2aaa37428ba63597094642f43da2184}
+      \strng{authornamehash}{e2aaa37428ba63597094642f43da2184}
+      \strng{authorfullhash}{e2aaa37428ba63597094642f43da2184}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE Conference on Decision and Control}
+      \field{title}{Multi-user rate-based flow control: Distributed game-theoretic algorithms}
+      \field{usera}{C}
+      \field{userd}{M}
+      \field{usere}{Altman, Eitan and Basar, Tamer}
+      \field{userf}{Altman, Eitan and Basar, Tamer}
+      \field{volume}{3}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{pages}{2916\bibrangedash 2921}
+      \range{pages}{6}
+      \keyw{Altman1997}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

@@ -1,0 +1,19 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is '/Users/jarvis/Desktop/ECNU_Latex_Template/.texpadtmp/main.blg'
+[45] biber-darwin:303> INFO - === Wed Mar 13, 2019, 19:51:37
+[69] Biber.pm:359> INFO - Reading '/Users/jarvis/Desktop/ECNU_Latex_Template/.texpadtmp/main.bcf'
+[171] Biber.pm:835> INFO - Found 3 citekeys in bib section 0
+[185] Biber.pm:3670> INFO - Processing section 0
+[200] Biber.pm:3840> INFO - Looking for bibtex format file '/Users/jarvis/Desktop/ECNU_Latex_Template/./reference/thesis-ref.bib' for section 0
+[203] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[208] bibtex.pm:1292> INFO - Found BibTeX data source '/Users/jarvis/Desktop/ECNU_Latex_Template/./reference/thesis-ref.bib'
+[211] Utils.pm:164> WARN - Duplicate entry key: 'Hills' in file '/Users/jarvis/Desktop/ECNU_Latex_Template/./reference/thesis-ref.bib', skipping ...
+[212] Utils.pm:164> WARN - Duplicate entry key: 'Hills' in file '/Users/jarvis/Desktop/ECNU_Latex_Template/./reference/thesis-ref.bib', skipping ...
+[219] Utils.pm:164> WARN - month field 'Jun.' in entry 'Joa1999' is not an integer - this will probably not sort properly.
+[233] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[233] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[233] Biber.pm:3499> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'en-US'
+[233] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[236] bbl.pm:608> INFO - Writing '/Users/jarvis/Desktop/ECNU_Latex_Template/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[237] bbl.pm:712> INFO - Output to /Users/jarvis/Desktop/ECNU_Latex_Template/.texpadtmp/main.bbl
+[237] Biber.pm:109> INFO - WARNINGS: 3
