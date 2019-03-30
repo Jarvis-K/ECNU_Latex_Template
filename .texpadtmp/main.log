@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.3)  13 MAR 2019 19:51
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.3)  30 MAR 2019 22:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1971,7 +1971,7 @@ Package biblatex Warning: Conflicting options.
 (biblatex)                'eventdate=edtf' requires 'seconds=true'.
 (biblatex)                Setting 'seconds=true' on input line 6.
 
-(/Users/jarvis/Desktop/ECNU_Latex_Template/.texpadtmp/main.aux)
+(/Users/jarvis/Downloads/ECNU_Latex_Template/.texpadtmp/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -2111,7 +2111,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 6.
 LaTeX Info: Redefining \pageref on input line 6.
 LaTeX Info: Redefining \nameref on input line 6.
- (/Users/jarvis/Desktop/ECNU_Latex_Template/.texpadtmp/main.out) (/Users/jarvis/Desktop/ECNU_Latex_Template/.texpadtmp/main.out)
+ (/Users/jarvis/Downloads/ECNU_Latex_Template/.texpadtmp/main.out) (/Users/jarvis/Downloads/ECNU_Latex_Template/.texpadtmp/main.out)
 \@outlinefile=\write9
 \openout9 = `main.out'.
 
@@ -2123,7 +2123,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (/Users/jarvis/Desktop/ECNU_Latex_Template/.texpadtmp/main.bbl)
+ (/Users/jarvis/Downloads/ECNU_Latex_Template/.texpadtmp/main.bbl)
 Package biblatex Info: Reference section=0 on input line 6.
 Package biblatex Info: Reference segment=0 on input line 6.
  (./preface/inner-cover.tex (./paper_info.tex)
@@ -2175,7 +2175,7 @@ File: figures/ECNUlogo.png Graphic file (type QTm)
 . - 'normal' (m/n) with NFSS spec.: <->"STHeiti/OT"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-(/Users/jarvis/Desktop/ECNU_Latex_Template/.texpadtmp/main.toc)
+(/Users/jarvis/Downloads/ECNU_Latex_Template/.texpadtmp/main.toc)
 \tf@toc=\write10
 \openout10 = `main.toc'.
 
@@ -2282,7 +2282,7 @@ File: ./figures/figure_example1.jpg Graphic file (type QTm)
  <use  "./figures/figure_example1.jpg" >) (./body/SectionE.tex [5]
 \openout6 = `main.ent'.
 
- [6]) (/Users/jarvis/Desktop/ECNU_Latex_Template/.texpadtmp/main.ent) [7] [8
+ [6]) (/Users/jarvis/Downloads/ECNU_Latex_Template/.texpadtmp/main.ent) [7] [8
 
 ] (./ending/Appendix.tex [9
 
@@ -2295,7 +2295,7 @@ File: ./figures/figure_example1.jpg Graphic file (type QTm)
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 51.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
- (/Users/jarvis/Desktop/ECNU_Latex_Template/.texpadtmp/main.aux)
+ (/Users/jarvis/Downloads/ECNU_Latex_Template/.texpadtmp/main.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 51.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 51.
 
@@ -2309,11 +2309,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 51.
  ) 
 Here is how much of TeX's memory you used:
  47719 strings out of 493005
- 951632 string characters out of 6134597
- 1363190 words of memory out of 5000000
+ 951666 string characters out of 6134597
+ 1363192 words of memory out of 5000000
  50982 multiletter control sequences out of 15000+600000
  14396 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  63i,15n,92p,10483b,4437s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/jarvis/Desktop/ECNU_Latex_Template/.texpadtmp/main.pdf (16 pages).
+Output written on /Users/jarvis/Downloads/ECNU_Latex_Template/.texpadtmp/main.pdf (16 pages).
