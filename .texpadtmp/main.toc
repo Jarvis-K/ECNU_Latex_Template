@@ -6,7 +6,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.1.1}子节标题}{1}{subsubsection.1.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {（1）}段标题}{1}{paragraph.1.1.1.1}
+\contentsline {paragraph}{\numberline {1.1.1.1}段标题}{1}{paragraph.1.1.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subparagraph}{\numberline {1）}小段标题}{1}{subparagraph.1.1.1.1.1}
 \defcounter {refsection}{0}\relax 
@@ -32,11 +32,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.3.3}带大括号的多行公式}{3}{subsubsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {（1）}cases}{3}{paragraph.3.3.3.1}
+\contentsline {paragraph}{\numberline {3.3.3.1}cases}{3}{paragraph.3.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {（2）}array}{3}{paragraph.3.3.3.2}
+\contentsline {paragraph}{\numberline {3.3.3.2}array}{3}{paragraph.3.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {（3）}aligned}{3}{paragraph.3.3.3.3}
+\contentsline {paragraph}{\numberline {3.3.3.3}aligned}{3}{paragraph.3.3.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4}交换图}{3}{subsection.3.4}
 \defcounter {refsection}{0}\relax 
