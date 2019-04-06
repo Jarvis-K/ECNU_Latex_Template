@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.3)  31 MAR 2019 13:59
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.3)  6 APR 2019 14:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2182,7 +2182,7 @@ File: figures/ECNUlogo.png Graphic file (type QTm)
  (./preface/abstract.tex [1] (./paper_info.tex)
 
 LaTeX Font Warning: Font shape `TU/STHeiti(0)/bx/n' undefined
-(Font)              using `TU/STHeiti(0)/m/n' instead on input line 14.
+(Font)              using `TU/STHeiti(0)/m/n' instead on input line 11.
 
 *************************************************
 * fontspec warning: "script-not-exist"
@@ -2216,7 +2216,7 @@ LaTeX Font Warning: Font shape `TU/STHeiti(0)/bx/n' undefined
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
+Underfull \hbox (badness 10000) in paragraph at lines 20--26
 
 
 \hbox(0.0+0.0)x405.24411
@@ -2228,7 +2228,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--29
 ] [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 45--50
+Underfull \hbox (badness 10000) in paragraph at lines 42--47
 
 
 \hbox(0.0+0.0)x405.24411
@@ -2293,11 +2293,11 @@ File: ./figures/figure_example1.jpg Graphic file (type QTm)
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 51.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
  (/Users/jarvis/Downloads/ECNU_Latex_Template/.texpadtmp/main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 51.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 51.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 48.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 48.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2305,12 +2305,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 51.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
  47715 strings out of 493005
  951602 string characters out of 6134597
- 1361266 words of memory out of 5000000
+ 1362292 words of memory out of 5000000
  50978 multiletter control sequences out of 15000+600000
  14396 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
