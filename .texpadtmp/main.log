@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.3)  6 APR 2019 14:59
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.3)  9 APR 2019 11:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1520,20 +1520,24 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
 \c@subfigure=\count193
 \c@subtable=\count194
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/caption/bicaption.sty
+Package: bicaption 2016/03/27 v1.1-158 Bilingual Captions (AR)
+\bicaption@lang=\count195
+Package bicaption Info: main language is not set.
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
  (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count195
-\Gm@cntv=\count196
-\c@Gm@tempcnt=\count197
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
 \Gm@bindingoffset=\dimen323
 \Gm@wd@mp=\dimen324
 \Gm@odd@mp=\dimen325
@@ -1544,7 +1548,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen330
 \Gm@dimlist=\toks51
 )
-\g__fontspec_family_TimesNewRoman_int=\count198
+\g__fontspec_family_TimesNewRoman_int=\count199
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1566,14 +1570,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 . Roman/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-LaTeX Info: Redefining \rmfamily on input line 28.
+LaTeX Info: Redefining \rmfamily on input line 30.
 
 *************************************************
 * xeCJK warning: "CJKfamily-redef"
 * 
 * Redefining CJKfamily `\CJKrmdefault' (STSong(0)).
 *************************************************
-\g__fontspec_family_SimSun_int=\count199
+\g__fontspec_family_SimSun_int=\count266
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1604,8 +1608,8 @@ LaTeX Info: Redefining \rmfamily on input line 28.
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks52
 \footnotemargin=\dimen331
-\c@pp@next@reset=\count266
-\c@@fnserial=\count267
+\c@pp@next@reset=\count267
+\c@@fnserial=\count268
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -1670,12 +1674,12 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen332
-\Hy@linkcounter=\count268
-\Hy@pagecounter=\count269
+\Hy@linkcounter=\count269
+\Hy@pagecounter=\count270
  (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count270
+\Hy@SavedSpaceFactor=\count271
  (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
@@ -1690,10 +1694,10 @@ Package hyperref Info: Plain pages OFF on input line 4513.
 Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count271
+\c@Hy@tempcnt=\count272
 LaTeX Info: Redefining \url on input line 5104.
 \XeTeXLinkMargin=\dimen333
-\Fld@menulength=\count272
+\Fld@menulength=\count273
 \Field@Width=\dimen334
 \Fld@charsize=\dimen335
 Package hyperref Info: Hyper figures OFF on input line 6358.
@@ -1705,9 +1709,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count273
-\c@Item=\count274
-\c@Hfootnote=\count275
+\Hy@abspage=\count274
+\c@Item=\count275
+\c@Hfootnote=\count276
 )
 
 Package hyperref Message: Driver (autodetected): hxetex.
@@ -1718,10 +1722,10 @@ File: hxetex.def 2017/03/14 v6.85a Hyperref driver for XeTeX
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO)
 )
 \pdfm@box=\box74
-\c@Hy@AnnotLevel=\count276
-\HyField@AnnotCount=\count277
-\Fld@listcount=\count278
-\c@bookmark@seq@number=\count279
+\c@Hy@AnnotLevel=\count277
+\HyField@AnnotCount=\count278
+\Fld@listcount=\count279
+\c@bookmark@seq@number=\count280
  (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
@@ -1731,71 +1735,71 @@ Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 )
 \Hy@SectionHShift=\skip78
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/endnotes/endnotes.sty
-\c@endnote=\count280
+\c@endnote=\count281
 \endnotesep=\dimen336
 \@enotes=\write6
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/footnotebackref/footnotebackref.sty
 Package: footnotebackref 2012/07/01 v1.0 Backreferences for footnotes (Holger Lange)
-\c@BackrefHyperFootnoteCounter=\count281
+\c@BackrefHyperFootnoteCounter=\count282
 )
-\c@theorem=\count282
+\c@theorem=\count283
  (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
  (/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count283
+\etb@tempcnta=\count284
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count284
+\lrq@indent=\count285
  (/usr/local/texlive/2017/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ) (/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write7
-\integerpart=\count285
-\decimalpart=\count286
+\integerpart=\count286
+\decimalpart=\count287
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count287
-\c@listtotal=\count288
-\c@listcount=\count289
-\c@liststart=\count290
-\c@liststop=\count291
-\c@citecount=\count292
-\c@citetotal=\count293
-\c@multicitecount=\count294
-\c@multicitetotal=\count295
-\c@instcount=\count296
-\c@maxnames=\count297
-\c@minnames=\count298
-\c@maxitems=\count299
-\c@minitems=\count300
-\c@citecounter=\count301
-\c@savedcitecounter=\count302
-\c@uniquelist=\count303
-\c@uniquename=\count304
-\c@refsection=\count305
-\c@refsegment=\count306
-\c@maxextratitle=\count307
-\c@maxextratitleyear=\count308
-\c@maxextrayear=\count309
-\c@maxextraalpha=\count310
-\c@abbrvpenalty=\count311
-\c@highnamepenalty=\count312
-\c@lownamepenalty=\count313
-\c@maxparens=\count314
-\c@parenlevel=\count315
-\blx@tempcnta=\count316
-\blx@tempcntb=\count317
-\blx@tempcntc=\count318
-\blx@maxsection=\count319
-\blx@maxsegment@0=\count320
-\blx@notetype=\count321
-\blx@parenlevel@text=\count322
-\blx@parenlevel@foot=\count323
-\blx@sectionciteorder@0=\count324
+\c@tabx@nest=\count288
+\c@listtotal=\count289
+\c@listcount=\count290
+\c@liststart=\count291
+\c@liststop=\count292
+\c@citecount=\count293
+\c@citetotal=\count294
+\c@multicitecount=\count295
+\c@multicitetotal=\count296
+\c@instcount=\count297
+\c@maxnames=\count298
+\c@minnames=\count299
+\c@maxitems=\count300
+\c@minitems=\count301
+\c@citecounter=\count302
+\c@savedcitecounter=\count303
+\c@uniquelist=\count304
+\c@uniquename=\count305
+\c@refsection=\count306
+\c@refsegment=\count307
+\c@maxextratitle=\count308
+\c@maxextratitleyear=\count309
+\c@maxextrayear=\count310
+\c@maxextraalpha=\count311
+\c@abbrvpenalty=\count312
+\c@highnamepenalty=\count313
+\c@lownamepenalty=\count314
+\c@maxparens=\count315
+\c@parenlevel=\count316
+\blx@tempcnta=\count317
+\blx@tempcntb=\count318
+\blx@tempcntc=\count319
+\blx@maxsection=\count320
+\blx@maxsegment@0=\count321
+\blx@notetype=\count322
+\blx@parenlevel@text=\count323
+\blx@parenlevel@foot=\count324
+\blx@sectionciteorder@0=\count325
 \labelnumberwidth=\skip79
 \labelalphawidth=\skip80
 \biblabelsep=\skip81
@@ -1806,9 +1810,9 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 \bibhang=\skip86
 \blx@bcfin=\read5
 \blx@bcfout=\write8
-\c@mincomprange=\count325
-\c@maxcomprange=\count326
-\c@mincompwidth=\count327
+\c@mincomprange=\count326
+\c@maxcomprange=\count327
+\c@mincompwidth=\count328
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/blx-dm.def)
@@ -1816,72 +1820,72 @@ Package biblatex Info: Trying to load biblatex citestyle data model...
 Package biblatex Info: ... file 'gb7714-2015.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count328
-\c@savedafterword=\count329
-\c@annotator=\count330
-\c@savedannotator=\count331
-\c@author=\count332
-\c@savedauthor=\count333
-\c@bookauthor=\count334
-\c@savedbookauthor=\count335
-\c@commentator=\count336
-\c@savedcommentator=\count337
-\c@editor=\count338
-\c@savededitor=\count339
-\c@editora=\count340
-\c@savededitora=\count341
-\c@editorb=\count342
-\c@savededitorb=\count343
-\c@editorc=\count344
-\c@savededitorc=\count345
-\c@foreword=\count346
-\c@savedforeword=\count347
-\c@holder=\count348
-\c@savedholder=\count349
-\c@introduction=\count350
-\c@savedintroduction=\count351
-\c@namea=\count352
-\c@savednamea=\count353
-\c@nameb=\count354
-\c@savednameb=\count355
-\c@namec=\count356
-\c@savednamec=\count357
-\c@translator=\count358
-\c@savedtranslator=\count359
-\c@shortauthor=\count360
-\c@savedshortauthor=\count361
-\c@shorteditor=\count362
-\c@savedshorteditor=\count363
-\c@labelname=\count364
-\c@savedlabelname=\count365
-\c@institution=\count366
-\c@savedinstitution=\count367
-\c@lista=\count368
-\c@savedlista=\count369
-\c@listb=\count370
-\c@savedlistb=\count371
-\c@listc=\count372
-\c@savedlistc=\count373
-\c@listd=\count374
-\c@savedlistd=\count375
-\c@liste=\count376
-\c@savedliste=\count377
-\c@listf=\count378
-\c@savedlistf=\count379
-\c@location=\count380
-\c@savedlocation=\count381
-\c@organization=\count382
-\c@savedorganization=\count383
-\c@origlocation=\count384
-\c@savedoriglocation=\count385
-\c@origpublisher=\count386
-\c@savedorigpublisher=\count387
-\c@publisher=\count388
-\c@savedpublisher=\count389
-\c@language=\count390
-\c@savedlanguage=\count391
-\c@pageref=\count392
-\c@savedpageref=\count393
+\c@afterword=\count329
+\c@savedafterword=\count330
+\c@annotator=\count331
+\c@savedannotator=\count332
+\c@author=\count333
+\c@savedauthor=\count334
+\c@bookauthor=\count335
+\c@savedbookauthor=\count336
+\c@commentator=\count337
+\c@savedcommentator=\count338
+\c@editor=\count339
+\c@savededitor=\count340
+\c@editora=\count341
+\c@savededitora=\count342
+\c@editorb=\count343
+\c@savededitorb=\count344
+\c@editorc=\count345
+\c@savededitorc=\count346
+\c@foreword=\count347
+\c@savedforeword=\count348
+\c@holder=\count349
+\c@savedholder=\count350
+\c@introduction=\count351
+\c@savedintroduction=\count352
+\c@namea=\count353
+\c@savednamea=\count354
+\c@nameb=\count355
+\c@savednameb=\count356
+\c@namec=\count357
+\c@savednamec=\count358
+\c@translator=\count359
+\c@savedtranslator=\count360
+\c@shortauthor=\count361
+\c@savedshortauthor=\count362
+\c@shorteditor=\count363
+\c@savedshorteditor=\count364
+\c@labelname=\count365
+\c@savedlabelname=\count366
+\c@institution=\count367
+\c@savedinstitution=\count368
+\c@lista=\count369
+\c@savedlista=\count370
+\c@listb=\count371
+\c@savedlistb=\count372
+\c@listc=\count373
+\c@savedlistc=\count374
+\c@listd=\count375
+\c@savedlistd=\count376
+\c@liste=\count377
+\c@savedliste=\count378
+\c@listf=\count379
+\c@savedlistf=\count380
+\c@location=\count381
+\c@savedlocation=\count382
+\c@organization=\count383
+\c@savedorganization=\count384
+\c@origlocation=\count385
+\c@savedoriglocation=\count386
+\c@origpublisher=\count387
+\c@savedorigpublisher=\count388
+\c@publisher=\count389
+\c@savedpublisher=\count390
+\c@language=\count391
+\c@savedlanguage=\count392
+\c@pageref=\count393
+\c@savedpageref=\count394
 \shorthandwidth=\skip87
 \shortjournalwidth=\skip88
 \shortserieswidth=\skip89
@@ -1897,13 +1901,13 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
-\c@textcitecount=\count394
-\c@textcitetotal=\count395
-\c@textcitemaxnames=\count396
-\c@biburlnumpenalty=\count397
-\c@biburlucpenalty=\count398
-\c@biburllcpenalty=\count399
-\c@smartand=\count400
+\c@textcitecount=\count395
+\c@textcitetotal=\count396
+\c@textcitemaxnames=\count397
+\c@biburlnumpenalty=\count398
+\c@biburlucpenalty=\count399
+\c@biburllcpenalty=\count400
+\c@smartand=\count401
 )
 Package biblatex Info: Trying to load bibliography style 'gb7714-2015'...
 Package biblatex Info: ... file 'gb7714-2015.bbx' found.
@@ -1921,8 +1925,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count401
-\c@bbx:relatedtotal=\count402
+\c@bbx:relatedcount=\count402
+\c@bbx:relatedtotal=\count403
 ))))
 Package biblatex Info: Trying to load citation style 'gb7714-2015'...
 Package biblatex Info: ... file 'gb7714-2015.cbx' found.
@@ -1932,8 +1936,8 @@ Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 File: numeric-comp.cbx 2016/12/05 v3.7 biblatex citation style (PK/JW/AB)
-\c@cbx@tempcnta=\count403
-\c@cbx@tempcntb=\count404
+\c@cbx@tempcnta=\count404
+\c@cbx@tempcntb=\count405
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1954,17 +1958,17 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 File: biblatex.cfg 
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count405
-\c@@ppsavesec=\count406
-\c@@ppsaveapp=\count407
+\c@@pps=\count406
+\c@@ppsavesec=\count407
+\c@@ppsaveapp=\count408
 ))
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 )
-\@quotelevel=\count408
-\@quotereset=\count409
+\@quotelevel=\count409
+\@quotereset=\count410
 
 
 Package biblatex Warning: Conflicting options.
@@ -2106,7 +2110,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count410
+\c@section@level=\count411
 )
 LaTeX Info: Redefining \ref on input line 6.
 LaTeX Info: Redefining \pageref on input line 6.
@@ -2148,7 +2152,7 @@ File: figures/ECNUlogo.png Graphic file (type QTm)
 * 
 * Font 'STHeiti' does not contain script 'CJK'.
 *************************************************
-\g__fontspec_family_STHeiti_int=\count411
+\g__fontspec_family_STHeiti_int=\count412
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -2248,7 +2252,7 @@ LaTeX Font Warning: Font shape `TU/SimSun(0)/m/it' undefined
 * 
 * Font 'STFangsong' does not contain script 'CJK'.
 *************************************************
-\g__fontspec_family_STFangsong_int=\count412
+\g__fontspec_family_STFangsong_int=\count413
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -2308,10 +2312,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 47715 strings out of 493005
- 951602 string characters out of 6134597
- 1362292 words of memory out of 5000000
- 50978 multiletter control sequences out of 15000+600000
+ 47784 strings out of 493005
+ 952947 string characters out of 6134597
+ 1363679 words of memory out of 5000000
+ 51045 multiletter control sequences out of 15000+600000
  14396 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  63i,15n,92p,10483b,4437s stack positions out of 5000i,500n,10000p,200000b,80000s
