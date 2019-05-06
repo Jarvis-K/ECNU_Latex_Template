@@ -4,7 +4,10 @@
 \thispagestyle{fancy} 
                               %
 \input{paper_info.tex}                              
-\cfoot{\uppercase\expandafter{\romannumeral\thepage}}
+%\cfoot{\uppercase\expandafter{\romannumeral\thepage}}
+\pagenumbering{Roman}
+\phantomsection
+\addcontentsline{toc}{section}{摘要}
 \renewcommand\abstractname{\heiti\zihao{-3} 摘要}   %
 \setcounter{page}{1}
 %\renewcommand{\baselinestretch}{1.5}
@@ -27,8 +30,10 @@
                                                                   %通常你不需要修改这部分内容
 \clearpage                                                        %
 \thispagestyle{fancy}     
-%\rhead{\TitleENG}                                        %
-%\centerline{\bf \heiti \zihao{-3}\TitleENG}                       %
+\rhead{\TitleENG}                                        %
+%\centerline{\bf \heiti \zihao{-3}\TitleENG} 
+\phantomsection
+\addcontentsline{toc}{section}{ABSTRACT}                        %
 \renewcommand\abstractname{\zihao{-3} Abstract}                   %
 \begin{abstract}\zihao{5}                                         %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
